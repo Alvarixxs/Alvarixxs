@@ -1,10 +1,27 @@
 ## Hi there 👋, I'm Alvaro a student from Spain. Here's some info about me!
+
 Hello! I'm Alvaro de Santos, an ambitious and passionate student pursuing dual Bachelor of Science degrees in Computer Science and Mathematics at the Autonomous University of Madrid. With a solid academic foundation and a diverse portfolio of self-driven projects, I am eager to apply my skills and knowledge to real-world challenges and innovative solutions in the tech industry.
+
 ### 🎓 Education
-- Bachelor of Science in Computer Science at Autonomous University of Madrid.
-- Bachelor of Science in Mathematics at Autonomouse University of Madrid.
-- Currently on an exchange program at Carleton University.
+
+- **Bachelor of Science in Computer Science**  
+  *Autonomous University of Madrid, Spain*  
+  **Eval**: 8.00 | **Expected Graduation**: May 2026  
+  *Courses*: Data Structures and Algorithms, Java OOP, SQL Relational Database, Microprocessors, Load Balancing.  
+  *Activities*: Engaged in a Hackathon team project during the first year, showcasing teamwork and problem-solving skills in a competitive environment.
+
+- **Bachelor of Science in Mathematics**  
+  *Autonomous University of Madrid, Spain*  
+  **Eval**: 8.00 | **Expected Graduation**: May 2026  
+  *Courses*: Calculus, Linear Algebra, Probability, Statistics, Differential Equations, Differential Geometry.  
+  Delving into the mathematical theories that underpin computer science, with a strong emphasis on analytical thinking and complex problem-solving.
+
+- **Exchange Program at Carleton University**  
+  *Ottawa, Canada*  
+  Currently expanding my global perspective and academic horizons through an exciting exchange program at Carleton University. This experience is allowing me to immerse myself in a new academic environment, collaborate with international peers, and apply my knowledge in a broader, multicultural context.
+
 ### 🔍 I'm currently learning ...
+
 I'm on an exciting journey to deepen my knowledge and skills in modern software development. My focus areas include:
 
 - **Advanced Frontend Development**: Diving into the latest features of React and Next.js, mastering TypeScript, and improving my proficiency with modern CSS frameworks like Tailwind CSS.
@@ -13,9 +30,8 @@ I'm on an exciting journey to deepen my knowledge and skills in modern software 
 - **Continuous Learning**: Keeping up with industry trends, new technologies, and best practices to stay ahead in the fast-paced world of software development.
 
 I'm always open to collaboration and eager to apply what I'm learning to real-world projects!
-### 💻 My Tech Stack:
 
-### 🛠 Tech Stack
+### 🛠 My Tech Stack
 
 - **Programming Skills:**
   ![Java](https://img.shields.io/badge/Java-ED8B00?logo=oracle&logoColor=white)
@@ -43,14 +59,19 @@ I'm always open to collaboration and eager to apply what I'm learning to real-wo
   ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=microsoft-playwright&logoColor=white)
 
 ### 🌱 Interests
+
 Outside of my academic and programming pursuits, I have a strong interest in sports ⚽, particularly running, hiking and going to the gym. I enjoy staying updated with the latest tech trends through YouTube content 💻 and actively participate in hackathons 🚀, where I collaborate with peers to innovate and develop new solutions.
+
 ### 👯 I'm looking to collaborate on ...
+
 Currently based in Ottawa, CA, I am originally from Madrid, Spain. I am actively seeking internship opportunities where I can apply my technical skills, learn from experienced professionals, and contribute to meaningful projects.
-### 📫 How to reach me: ...
+### 📫 How to reach me:
 <a href="https://personal-webpage-lovat-ten.vercel.app/">Website</a>
 <a href="http://www.linkedin.com/in/álvaro-de-santos-de-la-pedraja-101391308">Linkedin</a>
 <a href="https://x.com/alvarodesants">X</a>
+
 #### 😄 Check out my projects below!
+
 <!--
 **Alvarixxs/Alvarixxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
