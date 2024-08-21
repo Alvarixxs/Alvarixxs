@@ -6,13 +6,11 @@ Hello! I'm Alvaro de Santos, an ambitious and passionate student pursuing dual B
 
 - **Bachelor of Science in Computer Science**  
   *Autonomous University of Madrid, Spain*  
-  **Eval**: 8.00 | **Expected Graduation**: May 2026  
   *Courses*: Data Structures and Algorithms, Java OOP, SQL Relational Database, Microprocessors, Load Balancing.  
   *Activities*: Engaged in a Hackathon team project during the first year, showcasing teamwork and problem-solving skills in a competitive environment.
 
 - **Bachelor of Science in Mathematics**  
   *Autonomous University of Madrid, Spain*  
-  **Eval**: 8.00 | **Expected Graduation**: May 2026  
   *Courses*: Calculus, Linear Algebra, Probability, Statistics, Differential Equations, Differential Geometry.  
   Delving into the mathematical theories that underpin computer science, with a strong emphasis on analytical thinking and complex problem-solving.
 
@@ -65,6 +63,7 @@ Outside of my academic and programming pursuits, I have a strong interest in spo
 ### 👯 I'm looking to collaborate on ...
 
 Currently based in Ottawa, CA, I am originally from Madrid, Spain. I am actively seeking internship opportunities where I can apply my technical skills, learn from experienced professionals, and contribute to meaningful projects.
+
 ### 📫 How to reach me:
 <a href="https://personal-webpage-lovat-ten.vercel.app/">Website</a>
 <a href="http://www.linkedin.com/in/álvaro-de-santos-de-la-pedraja-101391308">Linkedin</a>
