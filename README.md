@@ -15,35 +15,33 @@ I'm on an exciting journey to deepen my knowledge and skills in modern software 
 I'm always open to collaboration and eager to apply what I'm learning to real-world projects!
 ### 💻 My Tech Stack:
 
-- Languages:
-            <img src='https://img.shields.io/badge/Python-306998?logo=Python&logoColor=FFD43B' width="65" height="20" />
-            <img src="https://img.shields.io/badge/Java-ED8B00?logo=oracle&logoColor=white" width="65" height="20" />
-            <img src='https://img.shields.io/badge/Javascript-323330?logo=javascript' width="65" height="20" />
-            <img src='https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=fff' width="65" height="20" />
-            <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=FFFFFF" width="65" height="20" />
-            <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=FFFFFF" width="65" height="20" />
-            <img src='https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white' width="65" height="20" />
-            <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" width="65" height="20" />
-            <img src='https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white' width="65" height="20" />
-            <img src='https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white' width="65" height="20" />
+### 🛠 Tech Stack
 
+- **Programming Skills:**
+  ![Java](https://img.shields.io/badge/Java-ED8B00?logo=oracle&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-306998?logo=python&logoColor=FFD43B)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
-- Developer Tools:
-                  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=FFFFFF" width="65" height="20" />
-                  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white" width="65" height="20" />
-                  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" width="65" height="20" />
-                  <img src='https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=white' width="65" height="20" />
-                  <img src='https://img.shields.io/badge/Power_Platform-742774?logo=powerapps&logoColor=white' width="70" height="20" />
-                  <img src='https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white' width="65" height="20" />
+- **Frameworks:**
+  ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+  ![React Native](https://img.shields.io/badge/React_Native-20232a?logo=react&logoColor=61DAFB)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
 
+- **Developer Tools:**
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+  ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=microsoft-playwright&logoColor=white)
 
-
-- Libraries/Frameworks:
-                        <img src='https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white' width="65" height="20" />
-                        <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900" width="65" height="20" />
-                        <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=FFFFFF" width="65" height="20" />
-                        <img src='https://img.shields.io/badge/React-20232a?logo=React&logoColor=61DAFB' width="65" height="20" />
-                        <img src='https://img.shields.io/badge/NodeJS-339933?logo=Node.js&logoColor=fff' width="65" height="20" />
 ### 🌱 Interests
 Outside of my academic and programming pursuits, I have a strong interest in sports ⚽, particularly running, hiking and going to the gym. I enjoy staying updated with the latest tech trends through YouTube content 💻 and actively participate in hackathons 🚀, where I collaborate with peers to innovate and develop new solutions.
 ### 👯 I'm looking to collaborate on ...
