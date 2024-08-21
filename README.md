@@ -1,5 +1,20 @@
 ## Hi there 👋
-
+I'm Alvaro and I'm a Computer Science student from Spain. Here's some info about me!
+### 🎓 Education
+- Bachelor of Science in Computer Science at Autonomous University of Madrid.
+- Bachelor of Science in Mathematics at Autonomouse University of Madrid.
+- Currently on an exchange program at Carleton University.
+### 👯 I'm looking to collaborate on ...
+Currently in Ottawa, CA Seeking Internship Opportunities
+### 📫 How to reach me: ...
+<a href="https://personal-webpage-lovat-ten.vercel.app/">Website</a>
+<a href="http://www.linkedin.com/in/álvaro-de-santos-de-la-pedraja-101391308">Linkedin</a>
+<a href="https://x.com/alvarodesants">X</a>
+### 🌱 Interests
+- ⚽ Sports (gym, running, hiking)
+- 🚀 Hackathons
+-  💻 Tech related youtube content
+#### Check out my projects below!
 <!--
 **Alvarixxs/Alvarixxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
