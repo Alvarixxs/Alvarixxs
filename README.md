@@ -66,7 +66,7 @@ Currently based in Ottawa, CA, I am originally from Madrid, Spain. I am actively
 
 ### 📫 How to reach me:
 <a href="https://personal-webpage-lovat-ten.vercel.app/">Website</a>
-<a href="http://www.linkedin.com/in/álvaro-de-santos-de-la-pedraja-101391308">Linkedin</a>
+<a href="http://www.linkedin.com/in/alvaro-de-santos-de-la-pedraja-101391308">Linkedin</a>
 <a href="https://x.com/alvarodesants">X</a>
 
 #### 😄 Check out my projects below!
